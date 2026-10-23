@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoilMetrix-Inc/.github/main/brand/logo-dark.png" />
-    <img src="https://raw.githubusercontent.com/SoilMetrix-Inc/.github/main/brand/logo.png" width="420" alt="Aiterra · Fieldhand AI" />
+    <img src="https://raw.githubusercontent.com/SoilMetrix-Inc/.github/main/brand/logo.png" width="420" alt="Fieldhand AI" />
   </picture>
 </p>
 
