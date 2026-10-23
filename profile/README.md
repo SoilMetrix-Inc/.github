@@ -30,7 +30,7 @@ method and date, or clearly labeled as modeled.
 
 ## Projects
 
-All repositories are private.
+Product repositories are private.
 
 | Project | What it does |
 |---|---|
