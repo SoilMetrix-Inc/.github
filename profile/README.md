@@ -1,12 +1,9 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoilMetrix-Inc/.github/main/brand/logo-dark.png" />
-    <img src="https://raw.githubusercontent.com/SoilMetrix-Inc/.github/main/brand/logo.png" width="420" alt="Fieldhand AI" />
+    <img src="https://raw.githubusercontent.com/SoilMetrix-Inc/.github/main/brand/logo.png" width="420" alt="Aiterra - Fieldhand AI" />
   </picture>
 </p>
-
-<h1 align="center">Aiterra</h1>
-
 <p align="center">
   <em>Agronomy for all, on demand.</em>
 </p>
